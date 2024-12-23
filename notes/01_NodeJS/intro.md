@@ -14,7 +14,9 @@
 8. Testing with Jest
 9. Authorization with OAuth
 10. Docker
+
 ===========================================================================================
+
 ### Part II. Build your full-stack web application
 11. Setting up the Docker environment
 12. Middleware
